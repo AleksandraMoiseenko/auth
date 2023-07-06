@@ -1,3 +1,6 @@
+# auth
+Project with the use of redis cluster
+
 To start Redis cluster <br />
 ---
 Create folders 7000, 7001, 7002, 7003, 7004, 7005 <br />
@@ -96,6 +99,3 @@ Useful links
 - https://www.dltlabs.com/blog/how-to-setup-configure-a-redis-cluster-easily-573120
 - https://codingfullstack.com/java/spring-boot/spring-boot-redis-cluster/
 - https://github.com/AleksandraMoiseenko/auth-checker
-
-
-
