@@ -1,9 +1,0 @@
-ru\stm\auth\repository\impl\RedisRepositoryImpl.class
-ru\stm\auth\repository\RedisRepository.class
-ru\stm\auth\configuration\RedisConfiguration.class
-ru\stm\auth\controller\AuthController.class
-ru\stm\auth\repository\impl\CannotDeserializeStringToObject.class
-ru\stm\auth\Application.class
-ru\stm\auth\configuration\RedisProperties.class
-ru\stm\auth\repository\impl\RedisSuffixes.class
-ru\stm\auth\repository\impl\CannotSerializeObjectToString.class

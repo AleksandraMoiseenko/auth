@@ -1,9 +1,0 @@
-C:\projects\auth\src\main\java\ru\stm\auth\repository\RedisRepository.java
-C:\projects\auth\src\main\java\ru\stm\auth\repository\impl\RedisRepositoryImpl.java
-C:\projects\auth\src\main\java\ru\stm\auth\Application.java
-C:\projects\auth\src\main\java\ru\stm\auth\repository\impl\CannotDeserializeStringToObject.java
-C:\projects\auth\src\main\java\ru\stm\auth\configuration\RedisConfiguration.java
-C:\projects\auth\src\main\java\ru\stm\auth\repository\impl\RedisSuffixes.java
-C:\projects\auth\src\main\java\ru\stm\auth\repository\impl\CannotSerializeObjectToString.java
-C:\projects\auth\src\main\java\ru\stm\auth\configuration\RedisProperties.java
-C:\projects\auth\src\main\java\ru\stm\auth\controller\AuthController.java
